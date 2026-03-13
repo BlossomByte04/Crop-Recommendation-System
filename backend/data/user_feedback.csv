@@ -1,0 +1,3 @@
+Timestamp,Recommended_Crop,Rating_1_to_5,Comments,Raw_Inputs
+2026-03-13 10:36:10,Paddy,5,looks good,"{'N': 80, 'P': 40, 'K': 40}"
+2026-03-13 10:47:26,Maize,5,Good prediction,"{'N': 305, 'P': 69, 'K': 180, 'temperature': 28, 'humidity': 65, 'rainfall': 120, 'district': 'Belagavi', 'landSize': 1}"

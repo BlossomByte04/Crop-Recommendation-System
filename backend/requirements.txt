@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+easyocr
+scikit-learn
+joblib
+numpy
+pandas
+requests
+deep-translator
+pillow
+google-generativeai
+python-dotenv

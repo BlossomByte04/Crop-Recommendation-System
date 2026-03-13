@@ -1,0 +1,22 @@
+export const DISTRICT_COORDINATES: Record<string, { lat: number; lon: number }> = {
+  "Belagavi": { lat: 15.8497, lon: 74.4977 },
+  "Dharwad": { lat: 15.4589, lon: 75.0078 },
+  "Haveri": { lat: 14.7958, lon: 75.4011 },
+  "Gadag": { lat: 15.4214, lon: 75.6261 },
+  "Uttara Kannada": { lat: 14.7500, lon: 74.7500 },
+  "Mysuru": { lat: 12.2958, lon: 76.6394 },
+  "Mandya": { lat: 12.5218, lon: 76.8951 },
+  "Tumkur": { lat: 13.3392, lon: 77.1140 },
+  "Hassan": { lat: 13.0070, lon: 76.1020 },
+  "Chikkamagaluru": { lat: 13.3161, lon: 75.7720 },
+  "Raichur": { lat: 16.2120, lon: 77.3439 },
+  "Koppal": { lat: 15.3478, lon: 76.1524 },
+  "Ballari": { lat: 15.1394, lon: 76.9214 },
+  "Vijayapura": { lat: 16.8302, lon: 75.7100 },
+  "Yadgir": { lat: 16.7644, lon: 77.1307 },
+  "Kalaburagi": { lat: 17.3297, lon: 76.8343 },
+  "Bidar": { lat: 17.9120, lon: 77.5255 },
+  "Chitradurga": { lat: 14.2251, lon: 76.4005 },
+  "Davanagere": { lat: 14.4644, lon: 75.9218 },
+  "Shivamogga": { lat: 13.9299, lon: 75.5681 }
+};
